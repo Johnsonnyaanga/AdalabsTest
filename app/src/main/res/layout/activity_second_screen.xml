@@ -139,11 +139,12 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent">
                     <ImageView
+                        android:layout_marginTop="5dp"
                         android:gravity="center"
                         android:layout_weight="1"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
-                        android:src="@drawable/curtain_icon"/>
+                        android:src="@drawable/bulb_icon"/>
                     <TextView
                         android:fontFamily="@font/roboto_slab_light"
                         android:layout_marginTop="5dp"
@@ -290,7 +291,7 @@
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:src="@drawable/sun_icon"/>
+                    android:src="@drawable/arrow_icon"/>
 
 
 
@@ -356,7 +357,7 @@
                 <ImageView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:src="@drawable/sun_icon"/>
+                    android:src="@drawable/arrow_icon"/>
 
 
 

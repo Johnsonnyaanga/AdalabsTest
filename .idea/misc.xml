@@ -5,12 +5,14 @@
       <map>
         <entry key="..\:/Users/HP/Desktop/AdalabTest/app/src/main/res/drawable/arrow_icon.xml" value="0.15989583333333332" />
         <entry key="..\:/Users/HP/Desktop/AdalabTest/app/src/main/res/drawable/background.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/HP/Desktop/AdalabTest/app/src/main/res/drawable/bulb_icon.xml" value="0.12291666666666666" />
         <entry key="..\:/Users/HP/Desktop/AdalabTest/app/src/main/res/drawable/curtain_icon.xml" value="0.15989583333333332" />
         <entry key="..\:/Users/HP/Desktop/AdalabTest/app/src/main/res/drawable/door_icon.xml" value="0.15989583333333332" />
+        <entry key="..\:/Users/HP/Desktop/AdalabTest/app/src/main/res/drawable/moon.xml" value="0.13645833333333332" />
         <entry key="..\:/Users/HP/Desktop/AdalabTest/app/src/main/res/drawable/music_icon.xml" value="0.15989583333333332" />
         <entry key="..\:/Users/HP/Desktop/AdalabTest/app/src/main/res/drawable/thermometer_icon.xml" value="0.15989583333333332" />
-        <entry key="..\:/Users/HP/Desktop/AdalabTest/app/src/main/res/layout/activity_main.xml" value="0.12" />
-        <entry key="..\:/Users/HP/Desktop/AdalabTest/app/src/main/res/layout/activity_second_screen.xml" value="0.22" />
+        <entry key="..\:/Users/HP/Desktop/AdalabTest/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/HP/Desktop/AdalabTest/app/src/main/res/layout/activity_second_screen.xml" value="0.14666666666666667" />
       </map>
     </option>
   </component>
